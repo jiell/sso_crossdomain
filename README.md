@@ -1,8 +1,4 @@
 # sso_crossdomain
-基于kisso实现的跨域单点登录实现
-
-kisso 跨域演示 demo 同时需要看 demo [kisso_SpringMvc 演示 demo](http://git.oschina.net/juapk/kisso_springmvc)  逻辑
-
 
 ### 配置 HOSTS 
 127.0.0.1 sso.test.com

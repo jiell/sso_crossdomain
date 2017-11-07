@@ -17,7 +17,7 @@
 ### 跨域登录（原理）
 --------------------------------------------
 
-![GitHub](https://raw.githubusercontent.com/leqwang/kisso/master/images/cl.jpg "Kisso,crossdomain login")
+![GitHub](https://raw.githubusercontent.com/leqwang/kisso/master/images/cl.jpg "crossdomain login")
 
 ### 异常处理
 java.lang.IllegalArgumentException: An invalid domain [.x.com] was specified for this cookie

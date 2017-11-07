@@ -1,5 +1,7 @@
 # sso_crossdomain
 
+[跨域单点登录实现原理：](http://www.cnblogs.com/ywlaker/p/6113927.html) 
+
 ### 配置 HOSTS 
 127.0.0.1 sso.test.com
 
